@@ -1,1 +1,3 @@
-# Primer-prueba-Platzi
+## Primer-prueba-Platzi
+
+*Entrenando comandos de git
